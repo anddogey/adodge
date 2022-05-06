@@ -15,7 +15,7 @@
 - [x] Learn Full Stack Engineering Course **[April 11th - May 7th]**
 - [ ] Learn SQL
 - [ ] Learn how to approach object oriented problems and design scalable architecture
-- [ ] Learn the principles and pillars of OOP -- abstraction, encapsulation, polymorphism, and inheritance
+- [x] Learn the principles and pillars of OOP -- abstraction, encapsulation, polymorphism, and inheritance
 - [ ] Learn data modeling, problem solving, and architecture
 - [ ] Create first end-to-end, full-stack application
 
