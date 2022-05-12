@@ -29,7 +29,7 @@ A small team has posted a gig listing on a software freelancer site, asking for 
     	actionType: 'add' | 'remove' | 'modify';
         targetId?: string;
         previous?: any;
-        next: any;
+        next?: any;
     };
     ```
 
