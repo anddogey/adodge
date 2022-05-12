@@ -13,10 +13,10 @@
 
 ## End-to-End Engineering
 - [x] Learn Full Stack Engineering Course **[April 11th - May 7th]**
-- [ ] Learn SQL
-- [ ] Learn how to approach object oriented problems and design scalable architecture
+- [x] Learn SQL
+- [x] Learn how to approach object oriented problems and design scalable architecture
 - [x] Learn the principles and pillars of OOP -- abstraction, encapsulation, polymorphism, and inheritance
-- [ ] Learn data modeling, problem solving, and architecture
+- [x] Learn data modeling, problem solving, and architecture
 - [ ] Create first end-to-end, full-stack application
 
 ## Baby's First Test
