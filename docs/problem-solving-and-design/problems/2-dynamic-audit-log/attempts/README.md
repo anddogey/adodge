@@ -38,12 +38,10 @@
         * prev: string | null;
         * next: string | null;
         * dateTime: Date; (time we created the record, "NOW")
+    * picture
 
-* picture
 
-    <img src="C:\Users\Jewish 2.0\Dropbox\My PC (DESKTOP-SB26MAP)\Documents\Projects\adodge\docs\problem-solving-and-design\problems\2-dynamic-audit-log\attempts\README.assets\image-20220512004913353.png" alt="image-20220512004913353" style="zoom:150%;" />
-    
-    
+    ![image-20220512004913353](image-20220512004913353.png)
 
 * Building a REST API checklist:
     * method (GET/PUT/POST/DELETE)
