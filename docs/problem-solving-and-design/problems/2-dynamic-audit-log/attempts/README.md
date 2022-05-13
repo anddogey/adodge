@@ -40,8 +40,7 @@
         * dateTime: Date; (time we created the record, "NOW")
     * picture
 
-
-    ![image-20220512004913353](image-20220512004913353.png)
+![image-20220512004913353](image-20220512004913353.png)
 
 * Building a REST API checklist:
     * method (GET/PUT/POST/DELETE)
