@@ -35,7 +35,8 @@ A small team has posted a gig listing on a software freelancer site, asking for 
 
 2. As some app, I want an API service that is capable of retrieving logs through the following filters, so that I am able to customize my audit log response:
 
-    1. `subjectId`
-    2. `actionType`
-    3. `targetId`
-    4. `dateTime`
+    1. `Id`
+    2. `subjectId`
+    3. `actionType`
+    4. `targetId`
+    5. `dateTime`

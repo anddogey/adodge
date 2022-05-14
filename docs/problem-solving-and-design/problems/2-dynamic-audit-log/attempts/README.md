@@ -76,7 +76,7 @@
 
         500 {string: error }
 
-* GET /log?Id=string&subjectId=string&actionType=string&targetId=string&dateTimeMin=string&dateTimeMax=string;
+* GET /logs?Id=string&subjectId=string&actionType=string&targetId=string&dateTimeMin=string&dateTimeMax=string;
 
     * request: n/a
 
@@ -109,6 +109,20 @@
 
                 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Reflection
 
 * Things DJ would do differently:
@@ -134,6 +148,8 @@
     * there is no "?" in SQL, instead use NULLABLE (e.g prev: any, NULLABLE)
 
         * ```
+            create table <tablename> (
+            
             id: varchar(50)
             subject_id: varchar(50)
             action_type: varchar(50)
@@ -141,13 +157,99 @@
             prev: NULLABLE BLOB
             next: NULLABLE BLOB
             created_at_dt: Date
+            );
             ```
-
+    
     * 
 
 ## Attempt 2
 
 ### Notes
 
+* ``` 
+    id: varchar(50)
+    subject_id: varchar(50)
+    action_type: varchar(50)
+    target_id: NULLABLE varchar(50)
+    prev: NULLABLE BLOB
+    next: NULLABLE BLOB
+    created_at_dt: Date
+    ```
+
+* GET/PUT/POST/DELETE
+
+* GET- retrieve
+
+* Put- upserting 
+
+* Post- process
+
+* delete
+
+    * /audit/logs
+
+    * ``` 
+        {AddAuditRequestBody}
+        ```
+
+* 200
+
+* ``` 
+    {
+    	"string": "success"
+    }
+    ```
+
+* 500
+
+* ```
+    {
+    	"error": "string"
+    }
+    ```
+
+
+
+* **retrieve** logs. 
+
+* /audit/logs?Id=string&subjectId=string&actionType=string&targetId=string&dateTimeMin=string&dateTimeMax=string
+
+* 200
+
+* ``` 
+    {
+    	"id": "string",
+    	"subjectId": "string",
+    	...
+    }
+    ```
+
+* 500
+
+* ``` 
+    {
+    	"error": "string"
+    }
+    ```
+
+* 
+
 ### Reflection
 
+* Don't forget the name of the table
+* BLOB: Investigate more about SQL BLOB
+* updated_at_dt: for future reference
+* KNOW YOUR RESOURCE METHODS BY HEART. NO FLUBBING.
+* Singular vs. plural for GET/PUT.
+* PUT *can* be plural, GET SHOULD be plural
+* Know WHY you're naming a path a certain way by heart
+* can't use enums in sql, use varchar
+* Investigate TS 
+
+
+
+TS tasks to do:
+
+* Hello world
+* String randomizer
+* fizzbuzz
