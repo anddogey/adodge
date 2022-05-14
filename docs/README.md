@@ -38,7 +38,7 @@
 - [ ] Contribute to open-source repositories through feature + bug fix additions (solve issues, create PRs...)
 
 ## I Promise I Know What I'm Doing
-- [ ] Complete a bootcamp
+- [ ] Start a bootcamp **[June 22nd]**
 
 ## Marketing, Baby!
 - [ ] Revise Andy's LinkedIn
