@@ -17,18 +17,19 @@
 - [x] Learn how to approach object oriented problems and design scalable architecture
 - [x] Learn the principles and pillars of OOP -- abstraction, encapsulation, polymorphism, and inheritance
 - [x] Learn data modeling, problem solving, and architecture
-- [ ] Create first end-to-end, full-stack application
-
-## Baby's First Test
-- [ ] Create first paired-programming project
+- [ ] Create first end-to-end, full-stack application **[May 14th - May 21st?]**
 
 ## The Going Gets Tough
+
 - [ ] Learn AWS Lambda
 - [ ] Learn AWS RDS
 - [ ] Learn AWS ElasticBeanstalk
 - [ ] Learn AWS DynamoDB
 - [ ] Learn AWS API Gateway
 - [ ] Learn C#
+
+## Baby's First Test
+- [ ] Paired-programming with DJ on Ping projects
 
 ## The Tough Gets Going
 - [ ] Create second project with help as-needed
