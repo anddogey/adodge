@@ -16,20 +16,20 @@
 - [x] Learn the principles and pillars of OOP -- abstraction, encapsulation, polymorphism, and inheritance **[May 8th]**
 - [x] Learn SQL **[May 9th]**
 - [x] Learn how to approach object oriented problems and design scalable architecture, APIs, and schemas (problems 1 & 2) **[May 9th - May 13th]**
-- [ ] Create first end-to-end, full-stack application **[May 14th - May 16th, May 18th - May 22nd]**
+- [ ] Create first end-to-end, full-stack application **[May 14th - May 16th, May 19th - May 22nd]**
 
 ## Marketing, Baby!
 
-- [ ] Revise Andy's LinkedIn **[May 17th]**
-- [ ] Create website with custom domain **[May 17th]**
-- [ ] Create custom email address under custom domain **[May 17th]**
+- [x] Revise Andy's LinkedIn **[May 17th]**
+- [x] Create professional email address **[May 17th]**
 
 ## I Promise I Know What I'm Doing
 
-- [ ] Memorize [key terms used in Software Engineering](https://docs.google.com/document/d/18iCs5ppoa2vd5TYyE-SoCip-nagwE8ikM8xnXY2RvfE/edit?usp=sharing) **[May 23rd]**
-- [ ] Watch the following Agile-, Scrum-, and SAFe-related videos:
+- [x] Memorize [key terms used in Software Engineering](https://docs.google.com/document/d/18iCs5ppoa2vd5TYyE-SoCip-nagwE8ikM8xnXY2RvfE/edit?usp=sharing) **[May 18th]**
+- [x] Watch the following Agile-, Scrum-, and SAFe-related videos:
     - [ ] [Agile Scrum Full Course in 4 Hours](https://www.youtube.com/watch?v=VFQtSqChlsk) **[May 23rd]**
-    - [ ] [SAFe Explained in Five Minutes ](https://www.youtube.com/watch?v=aW2m-BtCJyE)**[May 23rd]**
+        - [ ] Document processes, rituals, and key terms in `agile-scrum-safe`
+    - [x] [SAFe Explained in Five Minutes ](https://www.youtube.com/watch?v=aW2m-BtCJyE)**[May 18th]**
 - [ ] Learn some key AWS resources through application rather than conceptual learning
     - [ ] Learn AWS Lambda **[May 24th]**
     - [ ] Learn AWS RDS **[May 24th]**
@@ -47,7 +47,7 @@
         - [ ] [6 Practice Exams for AWS Certified Cloud Practitioner](https://www.udemy.com/course/practice-exams-aws-certified-cloud-practitioner/learn/quiz/4915789#overview) (~6 hours) **[May 26th - May 27th]**
 
 
-    - [ ] [Basics of C#](https://www.hackerrank.com/skills-verification/c_sharp_basic) **[May 28th]**
+    - [x] [Basics of C#](https://www.hackerrank.com/skills-verification/c_sharp_basic) **[May 18th]**
     - [ ] [Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/) **[May 28th - May 30th]**
     - [ ] [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) **[May 31st - June 2nd]**
     - [ ] [Back End Development and APIs ](https://www.freecodecamp.org/learn/back-end-development-and-apis/)**[June 3rd - June 5th]**
