@@ -13,9 +13,9 @@
 
 1. Open a terminal at the directory titled "button-presses-app".
 2. `npx react-native init ButtonPresses --template react-native-template-typescript`
-3. `yarn add axios`
-4. Move the contents of the new `ButtonPresses` directory into the root `button-presses-app` directory.
-5. Delete the `ButtonPresses` directory.
+3. Move the contents of the new `ButtonPresses` directory into the root `button-presses-app` directory.
+4. Delete the `ButtonPresses` directory.
+5. `yarn add axios`
 6. Copy over the `.eslintrc.js`, `.eslintignore`, `.prettierrc.js`, and `.prettierignore` files from DJ's boilerplate.
 7. Open `./ios/ButtonPresses.xcworkspace` with XCode.
 8. Rename the bundle identifier as `org.adodge.button-presses`.
@@ -98,3 +98,4 @@
 * Ensure that axios usage in the mobile app uses the laptop's wi-fi LAN IP address and not `localhost`.
 * Middleware in Express is integrated using `app.use` — you will specifically need `app.use(express.json())` in order to accept JSON body requests.
 * Remember to use React Native, Express, and StackOverflow documentation if you get lost.
+* Interfaces are for classes, types are for objects.
