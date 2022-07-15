@@ -7,8 +7,5 @@
         "titleBar.inactiveBackground": "#394380",
         "titleBar.activeForeground": "#000",
         "titleBar.inactiveForeground": "#000"
-    },
-    "files.exclude": {
-        "**/node_modules": true
     }
 }

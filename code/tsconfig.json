@@ -3,5 +3,5 @@
         "composite": true
     },
     "files": [],
-    "references": [{ "path": "./projects/calendar/apps/mobile-app" }]
+    "references": [{ "path": "./examples" }]
 }
